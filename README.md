@@ -1,4 +1,1 @@
-cards
-=====
-
-A collection of card game rules.
+![](https://raw.github.com/dylanegan/cards/master/cards.gif)
